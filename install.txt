@@ -1,0 +1,1 @@
+tlmgr install collection-basic collection-latex collection-latexrecommended collection-fontsrecommended collection-latexextra moderncv geometry xcolor etoolbox pgf tikz-cd xkeyval pgfopts microtype l3packages l3kernel graphics kvoptions chktex
